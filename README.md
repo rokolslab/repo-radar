@@ -42,6 +42,12 @@
 | [MHSanaei/3x-ui](repos/infrastructure/3x-ui/README.md) | Основная open-source панель управления Xray-core: клиенты, протоколы, multi-node, API, subscriptions и routing | Использовать / автоматизировать | 9/10 |
 | [ServerTechnologies/3x-ui-with-xhttp](repos/infrastructure/3x-ui-with-xhttp/README.md) | Практический русскоязычный reference по VLESS + XHTTP через 3x-ui; tutorial, а не отдельный продукт | Изучить / reference | 7/10 |
 
+### Utilities
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [cjpais/Handy](repos/utilities/handy/README.md) | Полностью локальная cross-platform speech-to-text утилита: hotkey → диктовка → текст в активном приложении | К практическому тесту | 9/10 |
+
 ## Как устроен каталог
 
 Каждый проект физически хранится только в одной основной категории. Дополнительные свойства — например `self-hosted`, `mcp`, `github-integration`, `local-llm` — фиксируются внутри его карточки, чтобы не создавать дубли.
@@ -55,7 +61,8 @@ repo-radar/
 │   ├── agent-learning/
 │   ├── project-management/
 │   ├── local-llm/
-│   └── infrastructure/
+│   ├── infrastructure/
+│   └── utilities/
 ├── docs/
 │   ├── categories.md
 │   └── evaluation-criteria.md
