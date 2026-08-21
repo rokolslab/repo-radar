@@ -27,6 +27,19 @@
 | Репозиторий | Что это | Статус | Оценка |
 |---|---|---|---:|
 | [mattpocock/skills](repos/agent-skills/mattpocock-skills/README.md) | Набор composable engineering skills для Codex, Claude Code и других агентов | Внедрить одним из первых | 10/10 |
+| [edvardgrishin27/nativeprompt](repos/agent-skills/nativeprompt/README.md) | Адаптация prompts под конкретный agent/model family по опубликованным правилам вендоров | К практическому тесту | 8/10 |
+
+### Agent Learning
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [mikeshu2001/agent-vmesto-chata](repos/agent-learning/agent-vmesto-chata/README.md) | Русскоязычный agent-guided курс по переходу от обычного чата к работе с Codex/Claude Code на реальной задаче | К практическому тесту | 8/10 |
+
+### Infrastructure
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [ServerTechnologies/3x-ui-with-xhttp](repos/infrastructure/3x-ui-with-xhttp/README.md) | Практический русскоязычный reference по VLESS + XHTTP через 3x-ui; tutorial, а не отдельный продукт | Изучить / reference | 7/10 |
 
 ## Как устроен каталог
 
@@ -37,9 +50,11 @@ repo-radar/
 ├── README.md
 ├── repos/
 │   ├── agent-workspaces/
+│   ├── agent-skills/
+│   ├── agent-learning/
 │   ├── project-management/
 │   ├── local-llm/
-│   └── agent-skills/
+│   └── infrastructure/
 ├── docs/
 │   ├── categories.md
 │   └── evaluation-criteria.md
