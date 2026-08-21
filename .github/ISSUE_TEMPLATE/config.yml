@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Upstream project issue
+    url: https://github.com/rokolslab/repo-radar/blob/main/SECURITY.md
+    about: Если проблема относится к безопасности или функциональности рассматриваемого проекта, сначала проверьте его upstream-репозиторий.
