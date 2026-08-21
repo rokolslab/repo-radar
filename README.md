@@ -39,6 +39,7 @@
 
 | Репозиторий | Что это | Статус | Оценка |
 |---|---|---|---:|
+| [MHSanaei/3x-ui](repos/infrastructure/3x-ui/README.md) | Основная open-source панель управления Xray-core: клиенты, протоколы, multi-node, API, subscriptions и routing | Использовать / автоматизировать | 9/10 |
 | [ServerTechnologies/3x-ui-with-xhttp](repos/infrastructure/3x-ui-with-xhttp/README.md) | Практический русскоязычный reference по VLESS + XHTTP через 3x-ui; tutorial, а не отдельный продукт | Изучить / reference | 7/10 |
 
 ## Как устроен каталог
