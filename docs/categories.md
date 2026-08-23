@@ -8,7 +8,8 @@
 - `agent-skills` — skills, prompts и повторяемые инженерные процессы для агентов.
 - `agent-learning` — курсы, учебные среды и методики освоения agent-first подхода.
 - `project-management` — project/task/issue management, planning и coordination.
-- `local-llm` — локальный inference, serving engines и инструменты запуска моделей.
+- `local-llm` — локальный inference, serving engines и инструменты запуска языковых моделей.
+- `speech-ai` — speech-to-text, ASR, transcription engines и компоненты локальных голосовых AI-систем.
 - `infrastructure` — инфраструктурные решения, deployment patterns и специализированные operational guides.
 - `utilities` — прикладные desktop/CLI-инструменты общего назначения, которые улучшают ежедневный рабочий процесс.
 
