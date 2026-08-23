@@ -72,6 +72,7 @@
 | Репозиторий | Что это | Статус | Оценка |
 |---|---|---|---:|
 | [cjpais/Handy](repos/utilities/handy/README.md) | Полностью локальная cross-platform speech-to-text утилита: hotkey → диктовка → текст в активном приложении | К практическому тесту | 9/10 |
+| [lasselian/prism-desktop](repos/utilities/prism-desktop/README.md) | Desktop dashboard для Home Assistant под Windows/Linux с tray, WebSocket sync, notifications и global hotkeys | К практическому тесту | 8/10 |
 
 ## Структура репозитория
 
