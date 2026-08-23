@@ -41,6 +41,12 @@
 |---|---|---|---:|
 | [FlashML-org/FreeToken](repos/local-llm/freetoken/README.md) | Локальный inference engine для крупных MoE-моделей с совместным использованием GPU, RAM и CPU | R&D / практический тест | 9/10 |
 
+### Speech AI
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [SYSTRAN/faster-whisper](repos/speech-ai/faster-whisper/README.md) | Высокопроизводительный локальный Whisper backend на CTranslate2 для STT, batch processing и API-сервисов | Использовать / протестировать | 9/10 |
+
 ### Agent Skills
 
 | Репозиторий | Что это | Статус | Оценка |
@@ -83,6 +89,7 @@ repo-radar/
 │   ├── agent-learning/
 │   ├── project-management/
 │   ├── local-llm/
+│   ├── speech-ai/
 │   ├── infrastructure/
 │   └── utilities/
 ├── docs/
