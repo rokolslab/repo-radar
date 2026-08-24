@@ -1,6 +1,10 @@
 # faster-whisper
 
-> https://github.com/SYSTRAN/faster-whisper
+> Upstream: https://github.com/SYSTRAN/faster-whisper  
+> Категория: `speech-ai`  
+> Теги: `whisper`, `ctranslate2`, `speech-to-text`, `cuda`, `quantization`, `python`  
+> Статус: **К практическому тесту**  
+> Последняя проверка: 2026-08-24
 
 ## Кратко
 
@@ -263,6 +267,4 @@ FreeToken / local LLM
 
 ## Решение
 
-**Использовать / протестировать как базовый локальный STT backend.**
-
-Если требуется просто голосовой ввод в desktop-приложения — сначала смотреть Handy. Если требуется программная транскрибация, batch processing, API или собственный speech pipeline — `faster-whisper` является одним из основных кандидатов.
+**К практическому тесту.** Если требуется просто голосовой ввод в desktop-приложения — сначала смотреть Handy. Если требуется программная транскрибация, batch processing, API или собственный speech pipeline — `faster-whisper` является одним из основных кандидатов.
