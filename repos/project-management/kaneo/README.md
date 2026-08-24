@@ -3,7 +3,7 @@
 > Upstream: https://github.com/usekaneo/kaneo  
 > Категория: `project-management`  
 > Теги: `self-hosted`, `project-management`, `kanban`, `mcp`, `github`, `postgresql`  
-> Статус: **Развернуть и проверить**  
+> Статус: **К практическому тесту**  
 > Последняя проверка: 2026-08-21
 
 ## Кратко
@@ -179,7 +179,7 @@ Codex / OpenCode
 
 ## Решение
 
-**Развернуть и проверить до дальнейшей разработки собственного generic project tracker.**
+**К практическому тесту.** Развернуть и проверить до дальнейшей разработки собственного generic project tracker.
 
 ## Источники
 
