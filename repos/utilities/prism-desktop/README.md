@@ -1,6 +1,10 @@
 # Prism Desktop
 
-> https://github.com/lasselian/prism-desktop
+> Upstream: https://github.com/lasselian/prism-desktop  
+> Категория: `utilities`  
+> Теги: `home-assistant`, `desktop`, `websocket`, `windows`, `linux`, `python`  
+> Статус: **К практическому тесту**  
+> Последняя проверка: 2026-08-23
 
 ## Кратко
 
