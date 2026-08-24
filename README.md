@@ -68,6 +68,16 @@
 | [cjpais/Handy](repos/utilities/handy/README.md) | Полностью локальная cross-platform speech-to-text утилита: hotkey → диктовка → текст в активном приложении | К практическому тесту | 9/10 |
 | [lasselian/prism-desktop](repos/utilities/prism-desktop/README.md) | Desktop dashboard для Home Assistant под Windows/Linux с tray, WebSocket sync, notifications и global hotkeys | К практическому тесту | 8/10 |
 
+## Курсы и обучение
+
+Курсы, которые помогут быстро разобраться, прокачать навыки и получить реальный результат.
+
+> Чтобы смотреть материалы на русском языке, открой видео в Яндекс Браузере и используй автоматический ИИ-перевод.
+
+В подборке сейчас 9 материалов: AI-автоматизация, мобильные приложения, инфлюенсер-маркетинг, ChatGPT, продажи, коммуникация, копирайтинг, AI-агенты без кода и бизнес-кейсы будущего.
+
+[Открыть подборку курсов →](docs/courses.md)
+
 ## Что находится в карточке
 
 Для каждого проекта фиксируются:
@@ -120,6 +130,7 @@ repo-radar/
 │   └── utilities/
 ├── docs/
 │   ├── categories.md
+│   ├── courses.md
 │   └── evaluation-criteria.md
 ├── templates/
 │   └── repository-review.md
