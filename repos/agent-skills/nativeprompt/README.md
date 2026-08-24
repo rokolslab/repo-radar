@@ -1,6 +1,10 @@
 # nativeprompt
 
-> https://github.com/edvardgrishin27/nativeprompt
+> Upstream: https://github.com/edvardgrishin27/nativeprompt  
+> Категория: `agent-skills`  
+> Теги: `codex`, `claude-code`, `prompt-engineering`, `python`, `offline`, `agent-skill`  
+> Статус: **К практическому тесту**  
+> Последняя проверка: 2026-08-21
 
 ## Кратко
 
