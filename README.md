@@ -42,6 +42,12 @@
 |---|---|---|---:|
 | [SYSTRAN/faster-whisper](repos/speech-ai/faster-whisper/README.md) | Высокопроизводительный локальный Whisper backend на CTranslate2 для STT, batch processing и API-сервисов | К практическому тесту | 9/10 |
 
+### Voice Agents
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [videosdk-community/ai-telephony-demo](repos/voice-agents/ai-telephony-demo/README.md) | Reference/PoC AI-телефонии: self-hosted Python voice agent + VideoSDK SIP gateways + Gemini Live для inbound/outbound звонков | К практическому тесту | 8/10 |
+
 ### Project Management
 
 | Репозиторий | Что это | Статус | Оценка |
@@ -108,6 +114,7 @@ repo-radar/
 │   ├── agent-learning/
 │   ├── local-llm/
 │   ├── speech-ai/
+│   ├── voice-agents/
 │   ├── project-management/
 │   ├── infrastructure/
 │   └── utilities/
