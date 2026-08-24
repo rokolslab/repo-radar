@@ -3,7 +3,7 @@
 > Upstream: https://github.com/FlashML-org/FreeToken  
 > Категория: `local-llm`  
 > Теги: `inference`, `moe`, `cuda`, `nvidia`, `openai-api`, `anthropic-api`, `codex`, `opencode`  
-> Статус: **R&D / практический тест**  
+> Статус: **R&D**  
 > Последняя проверка: 2026-08-21
 
 ## Кратко
@@ -195,7 +195,7 @@ FreeToken
 
 ## Решение
 
-**Практически протестировать на RTX 5060 Ti 16 GB + 128 GB RAM.**
+**R&D.** Практически протестировать на RTX 5060 Ti 16 GB + 128 GB RAM; до результатов benchmark не считать production-кандидатом.
 
 ## Источники
 
