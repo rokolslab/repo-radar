@@ -1,6 +1,10 @@
 # agent-vmesto-chata
 
-> https://github.com/mikeshu2001/agent-vmesto-chata
+> Upstream: https://github.com/mikeshu2001/agent-vmesto-chata  
+> Категория: `agent-learning`  
+> Теги: `codex`, `claude-code`, `course`, `agent-learning`, `russian`, `workflow`  
+> Статус: **К практическому тесту**  
+> Последняя проверка: 2026-08-21
 
 ## Кратко
 
