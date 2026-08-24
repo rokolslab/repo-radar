@@ -9,6 +9,7 @@
 - `agent-learning` — курсы, учебные среды и методики освоения agent-first подхода.
 - `local-llm` — локальный inference, serving engines и инструменты запуска языковых моделей.
 - `speech-ai` — speech-to-text, ASR, transcription engines и компоненты локальных голосовых AI-систем.
+- `voice-agents` — realtime conversational voice agents, SIP/telephony integrations и voice-agent runtimes.
 - `project-management` — project/task/issue management, planning и coordination.
 - `infrastructure` — инфраструктурные решения, deployment patterns и специализированные operational guides.
 - `utilities` — прикладные desktop/CLI-инструменты общего назначения, которые улучшают ежедневный рабочий процесс.
