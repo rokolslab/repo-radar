@@ -1,6 +1,10 @@
 # 3x-ui-with-xhttp
 
-> https://github.com/ServerTechnologies/3x-ui-with-xhttp
+> Upstream: https://github.com/ServerTechnologies/3x-ui-with-xhttp  
+> Категория: `infrastructure`  
+> Теги: `3x-ui`, `xray`, `vless`, `xhttp`, `reality`, `tutorial`  
+> Статус: **Изучить**  
+> Последняя проверка: 2026-08-21
 
 ## Кратко
 
@@ -149,4 +153,4 @@ Ansible / scripts / infra-as-code
 
 ## Решение
 
-**Изучить / использовать как reference.** Сохранить в радаре как полезную документацию по 3x-ui + XHTTP. Перед реальным применением обязательно сверять конкретные настройки с текущими upstream-документами и переносить устойчивую конфигурацию в собственный управляемый deployment.
+**Изучить.** Использовать как reference по 3x-ui + XHTTP. Перед реальным применением обязательно сверять конкретные настройки с текущими upstream-документами и переносить устойчивую конфигурацию в собственный управляемый deployment.
