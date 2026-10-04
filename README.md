@@ -16,6 +16,9 @@
 | Репозиторий | Что это | Статус | Оценка |
 |---|---|---|---:|
 | [eneskirca/nodeterm](repos/agent-workspaces/nodeterm/README.md) | Визуальное рабочее пространство для терминалов и coding agents с tmux, SSH и Server Edition | К практическому тесту | 9/10 |
+| [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | Self-hosted Telegram-first second brain с хранением знаний в Obsidian | — | — |
+| [lee-to/ai-factory](https://github.com/lee-to/ai-factory) | Framework для AI-разработки со skills, MCP и spec-driven workflows для coding agents | — | — |
+| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | OpenCode-based framework для coding agents с project patterns, approval gates и shared context | — | — |
 
 ### Agent Skills
 
@@ -67,13 +70,7 @@
 |---|---|---|---:|
 | [cjpais/Handy](repos/utilities/handy/README.md) | Полностью локальная cross-platform speech-to-text утилита: hotkey → диктовка → текст в активном приложении | К практическому тесту | 9/10 |
 | [lasselian/prism-desktop](repos/utilities/prism-desktop/README.md) | Desktop dashboard для Home Assistant под Windows/Linux с tray, WebSocket sync, notifications и global hotkeys | К практическому тесту | 8/10 |
-
-## Forked upstream references
-
-- [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) — self-hosted Telegram-first second brain that saves voice and text into an Obsidian knowledge base.
-- [lee-to/ai-factory](https://github.com/lee-to/ai-factory) — AI development framework with skills, MCP integrations and spec-driven workflows for multiple coding agents.
-- [SweetlyTranslateDev/FluidVoice_Port_to_Windows](https://github.com/SweetlyTranslateDev/FluidVoice_Port_to_Windows) — Windows port of FluidVoice for local push-to-talk speech-to-text dictation.
-- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) — OpenCode-based framework for pattern-aware coding agents with approval gates and shared project context.
+| [SweetlyTranslateDev/FluidVoice_Port_to_Windows](https://github.com/SweetlyTranslateDev/FluidVoice_Port_to_Windows) | Windows-приложение для локальной push-to-talk диктовки и speech-to-text | — | — |
 
 ## Курсы и обучение
 
