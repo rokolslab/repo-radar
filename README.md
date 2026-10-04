@@ -16,9 +16,14 @@
 | Репозиторий | Что это | Статус | Оценка |
 |---|---|---|---:|
 | [eneskirca/nodeterm](repos/agent-workspaces/nodeterm/README.md) | Визуальное рабочее пространство для терминалов и coding agents с tmux, SSH и Server Edition | К практическому тесту | 9/10 |
-| [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | Self-hosted Telegram-first second brain с хранением знаний в Obsidian | — | — |
-| [lee-to/ai-factory](https://github.com/lee-to/ai-factory) | Framework для AI-разработки со skills, MCP и spec-driven workflows для coding agents | — | — |
-| [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) | OpenCode-based framework для coding agents с project patterns, approval gates и shared context | — | — |
+
+### Agent Systems
+
+| Репозиторий | Что это | Статус | Оценка |
+|---|---|---|---:|
+| [smixs/agent-second-brain](repos/agent-systems/agent-second-brain/README.md) | Telegram-first агент для хранения и поиска знаний в Obsidian vault | К практическому тесту | 7/10 |
+| [lee-to/ai-factory](repos/agent-systems/ai-factory/README.md) | CLI и skills для настройки coding agents, MCP и процессов разработки | Изучить | 7/10 |
+| [darrenhinde/OpenAgentsControl](repos/agent-systems/openagentscontrol/README.md) | OpenCode-based процессы разработки с контекстом проекта и approval gates | К практическому тесту | 6/10 |
 
 ### Agent Skills
 
